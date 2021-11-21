@@ -1,0 +1,1 @@
+Given a rod its diameter, G and the moment applied find the maximum angle of twist in the rod
